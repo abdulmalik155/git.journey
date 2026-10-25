@@ -1,0 +1,87 @@
+[33mcommit abc7c001e49f086dd12e3b3ff69f602d4f6edd04[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Abdulmalik Fayziyev <fayzievabdumalik@gmail.com>
+Date:   Sun Oct 25 09:45:10 2026 +0500
+
+    Revert "Hello three"
+    
+    This reverts commit 7f6c3ea37644dedfc13c9dac622f0d10068d0f4f.
+
+[33mcommit 7f6c3ea37644dedfc13c9dac622f0d10068d0f4f[m
+Author: Abdulmalik Fayziyev <fayzievabdumalik@gmail.com>
+Date:   Sun Oct 25 09:43:38 2026 +0500
+
+    Hello three
+
+[33mcommit b7da9e88dd19ff3283e79d67de3623a62b6d1b85[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: rootX <fayzievabdumalik@gmail.com>
+Date:   Sat Oct 24 22:33:24 2026 +0500
+
+    Update three.txt
+
+[33mcommit b1512f99411e33a74f5dcf11aea8445d13c5e565[m
+Author: rootX <fayzievabdumalik@gmail.com>
+Date:   Sat Oct 24 22:31:13 2026 +0500
+
+    Update three.txt
+
+[33mcommit 2830430ef16f92e2acfb174bf6ab333b2b280188[m
+Author: Abdulmalik Fayziyev <fayzievabdumalik@gmail.com>
+Date:   Sat Oct 24 21:47:03 2026 +0500
+
+    update one.txt file
+
+[33mcommit caa4b7e867a214b185c6491d9408e90bf60f01bd[m[33m ([m[1;31morigin/staging[m[33m, [m[1;31morigin/development[m[33m, [m[1;32mstaging[m[33m, [m[1;32mdevelopment[m[33m)[m
+Merge: 10fbf06 392d7ca
+Author: Abdulmalik Fayziyev <fayzievabdumalik@gmail.com>
+Date:   Sat Oct 24 21:37:19 2026 +0500
+
+    Merge conflict solved
+
+[33mcommit 10fbf060dbdc3f06d53e0df508e19988da924b6d[m
+Author: Abdulmalik Fayziyev <fayzievabdumalik@gmail.com>
+Date:   Sat Oct 24 21:31:54 2026 +0500
+
+    added 444 on four.txt
+
+[33mcommit 392d7cac7489de18500b06209c4ce3c2861ac64d[m
+Author: Abdulmalik Fayziyev <fayzievabdumalik@gmail.com>
+Date:   Sat Oct 24 21:30:26 2026 +0500
+
+    changed 44
+
+[33mcommit 1f7a0274321056d821b900e5a1df76f2ce099caa[m
+Merge: f2bfd36 b176afb
+Author: Abdulmalik Fayziyev <fayzievabdumalik@gmail.com>
+Date:   Sat Oct 24 21:24:23 2026 +0500
+
+    Merging main into development
+
+[33mcommit b176afbb0eb654dce6dcbdd8a6619b1d033038ca[m
+Author: Abdulmalik Fayziyev <fayzievabdumalik@gmail.com>
+Date:   Sat Oct 24 21:21:55 2026 +0500
+
+    I changed four.txt and entered 4 in there
+
+[33mcommit f2bfd36169b59cba21f4d0d69d73c5256795ee48[m
+Author: Abdulmalik Fayziyev <fayzievabdumalik@gmail.com>
+Date:   Sat Oct 24 21:17:12 2026 +0500
+
+    I created three.txt and entered three there
+
+[33mcommit 466f10105b588c9a59ab86c9151e8088f7a9b70c[m
+Author: Abdulmalik Fayziyev <fayzievabdumalik@gmail.com>
+Date:   Sat Oct 24 20:16:47 2026 +0500
+
+    I have made some changes to the files
+
+[33mcommit 1160511df276767f34c246ae58a98917a38220ea[m
+Author: rootX <fayzievabdumalik@gmail.com>
+Date:   Sat Oct 24 19:43:38 2026 +0500
+
+    Create two.txt
+
+[33mcommit 0e06ad4c457e56cb213ac4c87b4f925c280ae585[m
+Author: rootX <fayzievabdumalik@gmail.com>
+Date:   Sat Oct 24 19:43:09 2026 +0500
+
+    Create one.txt
